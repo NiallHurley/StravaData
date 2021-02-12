@@ -1,0 +1,7 @@
+*.png
+*.exe
+*.csv
+.vscode/
+XMLSerializer/_*
+XMLSerializer/.*
+*.xml
