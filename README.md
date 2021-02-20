@@ -1,3 +1,13 @@
+one file to log into strava and download all activities as CSV
+another file to load it up and generate some plots - examples below
+
+![Histogram of 7day distance by year](https://github.com/NiallHurley/StravaData/blob/master/imgs/Strava_Histogram_of_Rolling_colored_by_Year.png)
+![Distance and 7-day distance](https://github.com/NiallHurley/StravaData/blob/master/imgs/Strava_Distance_and_7Day_distance.png)
+
+
+
+
+
 # How to use:
 
 1. Ensure webdriver file is in the path (ideally in the same folder as the code (see more below on webdriver) 
